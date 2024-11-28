@@ -37,7 +37,7 @@
 8. After that, open the **Terminal** in Visual Studio Code by going to **Terminal** > **New Terminal**.
 9. In the terminal, type this command and press Enter:
    ```
-   git pull https://github.com/aKaustubhedYourToe/dataanal
+   git pull https://github.com/Kaustubh-Pasu/dataanal
    ```
 
 ### Step 5: Edit the File Path
